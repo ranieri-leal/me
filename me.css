@@ -1,0 +1,17 @@
+.intro {
+    color: rgb(32, 26, 26);
+    text-align: center;
+    margin-top: 7%;
+}
+.intro img {
+    border-radius: 70%;
+    max-width: 30%;
+    max-height: 30%;
+    border: 7px solid white;
+}
+body { 
+    background: #e9f35a
+}
+a{
+    color: #c0392b
+}
